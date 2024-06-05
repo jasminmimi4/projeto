@@ -13,3 +13,6 @@ Geração de Gráficos Interativos:
 Histograma da Quilometragem: Permite ao usuário visualizar a distribuição da quilometragem dos veículos clicando no botão "Criar histograma".
 Gráfico de Dispersão: Permite ao usuário visualizar a relação entre a quilometragem e o preço dos veículos clicando no botão "Criar gráfico de dispersão".
 
+## Aplicativo no Render
+
+O aplicativo está disponível [aqui](https://projeto-web-o5qq.onrender.com/).
